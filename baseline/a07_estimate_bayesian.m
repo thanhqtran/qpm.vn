@@ -208,3 +208,6 @@ pE.rho_RR_RW_BAR = Est{'rho_RR_RW_BAR', 'PosterMode'};
 pE.rho_L_GDP_RW_GAP = Est{'rho_L_GDP_RW_GAP', 'PosterMode'};
 pE.rho_RS_RW = Est{'rho_RS_RW', 'PosterMode'};
 pE.rho_DLA_CPI_RW = Est{'rho_DLA_CPI_RW', 'PosterMode'};
+
+% save params
+save pE
